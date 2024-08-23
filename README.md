@@ -2,7 +2,7 @@
 
 ### Desarrollador Web Front-end en Formación
 
-Soy un apasionado del desarrollo web con experiencia en la creación de experiencias únicas y atractivas. Actualmente, termine la carrera de desarrolador web front-end y estoy en proceso de perfeccionar mis habilidades y adquirir nuevas competencias en el mundo del desarrollo web.
+Soy un apasionado del desarrollo web con experiencia en la creación de experiencias únicas y atractivas. Actualmente, termine la carrera de desarrollador web front-end y estoy en proceso de perfeccionar mis habilidades y adquirir nuevas competencias en el mundo del desarrollo web.
 - 🌐 **Ubicación:** Montevideo, Uruguay
 - 🎓 **Educación:** Desarrollador Web Front-End
 - 💼 **Objetivo Profesional:** Convertirme en un Desarrollador Web Front-end completo
