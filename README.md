@@ -2,7 +2,7 @@
 
 ### 🚀 Front-end Web Developer
 
-I am a passionate web developer with experience in creating unique and engaging experiences. Currently, I have completed my Front-end Web Development degree and am in the process of perfecting my skills and acquiring new competencies in the web development world.
+I'm a web developer with experience in creating unique and engaging experiences. Currently, I have completed my Front-end Web Development degree and am in the process of perfecting my skills and acquiring new competencies in the web development world.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
