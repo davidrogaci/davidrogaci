@@ -77,13 +77,6 @@ I'm a web developer with experience in creating unique and engaging experiences.
 - CoderHouse JavaScript [Certificate](https://pub.coderhouse.com/legacy-certificates/65d100054d57812ddf30e80f?lang=es)
 - CoderHouse React(Vite) [Certificate](https://pub.coderhouse.com/legacy-certificates/66b0bcb13deda7fe3bacf37d?lang=es)
 
-## 🎨 Hobbies
-
-- 🎮 Game development
-- 📸 Photography
-- 🎵 Music production
-- 🚴 Cycling
-
 ## 📫 How to Reach Me
 
 - **Email:** [davidrogaci5@gmail.com](mailto:davidrogaci5@gmail.com)
