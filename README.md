@@ -93,6 +93,10 @@ I'm a web developer with experience in creating unique and engaging experiences.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidrogaci&show_icons=true&theme=radical)
 
+## 📊 Roadmad.sh Stats
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66e37d934ffb3bc3b06bbc23?variant=dark)](https://roadmap.sh))
+
 ---
 
 Thank you for visiting my profile! I'm open to new opportunities and collaborations. Feel free to contact me to discuss interesting projects.
